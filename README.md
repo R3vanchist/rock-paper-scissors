@@ -1,6 +1,8 @@
 # Rock, Paper, Scissors
-
 - Just a fun game of rock, paper, scissors.
+
+## How To
+- Grab the c code, run ```gcc -o game rockpaperscissors.c```
 
 ## To Do List
 - [X] Ask user to make a selection
